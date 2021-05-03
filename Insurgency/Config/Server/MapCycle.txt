@@ -9,6 +9,8 @@
 (Scenario="Scenario_Power_Plant_Checkpoint_Insurgents")
 (Scenario="Scenario_Tell_Checkpoint_Insurgents")
 (Scenario="Scenario_Tideway_Checkpoint_Insurgents")
+(Scenario="Scenario_Tideway_Checkpoint_Insurgents")
+(Scenario="Scenario_Bab_Checkpoint_Insurgents")
 
 
 (Scenario="Scenario_Precinct_Checkpoint_Security")
@@ -22,6 +24,8 @@
 (Scenario="Scenario_Power_Plant_Checkpoint_Security")
 (Scenario="Scenario_Tell_Checkpoint_Security")
 (Scenario="Scenario_Tideway_Checkpoint_Security")
+(Scenario="Scenario_Bab_Checkpoint_Insurgents")
+
 
 
 
